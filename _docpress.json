@@ -9,8 +9,8 @@
       },
       {
         "title": "Showcase",
-        "source": "docs/SHOWCASE.md",
-        "url": "SHOWCASE.html",
+        "source": "docs/showcase.md",
+        "url": "showcase.html",
         "slug": "showcase"
       }
     ]
@@ -22,8 +22,8 @@
       "pageTitle": "Skyline Manual",
       "slug": "index"
     },
-    "SHOWCASE.html": {
-      "source": "docs/SHOWCASE.md",
+    "showcase.html": {
+      "source": "docs/showcase.md",
       "title": "Showcase - Skyline Manual",
       "pageTitle": "Showcase",
       "slug": "showcase"
@@ -31,7 +31,7 @@
   },
   "sources": {
     "README.md": "index.html",
-    "docs/SHOWCASE.md": "SHOWCASE.html",
+    "docs/showcase.md": "showcase.html",
     "docs/assets/custom.css": "assets/custom.css"
   }
 }
