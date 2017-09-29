@@ -32,6 +32,7 @@
   "sources": {
     "README.md": "index.html",
     "docs/showcase.md": "showcase.html",
-    "docs/assets/custom.css": "assets/custom.css"
+    "docs/assets/custom.css": "assets/custom.css",
+    "docs/images/skyline_pixel_front.jpg": "images/skyline_pixel_front.jpg"
   }
 }
