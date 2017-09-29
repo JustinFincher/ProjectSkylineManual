@@ -3,3 +3,5 @@
 
 > 3D Live Wallpaper Built for Android with Scene Shift
 
+![](docs/images/skyline_pixel_front.jpg)
+
