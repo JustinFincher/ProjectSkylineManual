@@ -1,3 +1,3 @@
 * [Skyline Manual](../README.md)
-* [Showcase](SHOWCASE.md)
+* [Showcase](showcase.md)
 

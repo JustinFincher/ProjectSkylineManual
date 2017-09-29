@@ -1,4 +1,29 @@
 {
-  "name": "Skyline-Manual",
-  "description": "Manual for the Live Wallpaper with Scene Shift"
+    "name":"Skyline-Manual",
+    "description":"Manual for the Live Wallpaper with Scene Shift",
+    "docpress":
+    {
+        "docs":"docs",
+        "github":"JustinFincher/ProjectSkylineManual",
+        "css":[
+            "http://ricostacruz.com/docpress-rsc/style.css",
+            "docs/assets/custom.css"
+        ],
+        "markdown":{
+            "typographer":true,
+            "plugins":{
+                "decorate":{
+
+                }
+            }
+        },
+        "plugins":{
+            "docpress-core":{
+
+            },
+            "docpress-base":{
+
+            }
+        }
+    }
 }
