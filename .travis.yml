@@ -17,7 +17,6 @@ after_success:
 env:
   global:
   - GIT_NAME: Travis CI
-  - GIT_EMAIL: nobody@nobody.org
+  - GIT_EMAIL: fincher@fincher.im
   - GITHUB_REPO: justinfincher/ProjectSkylineManual
   - GIT_SOURCE: _docpress
-  - GIT_BRANCH: master
