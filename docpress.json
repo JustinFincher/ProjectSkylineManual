@@ -2,7 +2,7 @@
   "docs":"docs",
   "github": "JustinFincher/ProjectSkylineManual",
   "css": [
-    "http://ricostacruz.com/docpress-rsc/style.css",
+    "https://ricostacruz.com/docpress-rsc/style.css",
     "docs/assets/custom.css"
   ],
   "markdown": {
