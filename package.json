@@ -6,7 +6,7 @@
         "docs":"docs",
         "github":"JustinFincher/ProjectSkylineManual",
         "css":[
-            "docs/assets/style.css",
+            "https://ricostacruz.com/docpress-rsc/style.css",
             "docs/assets/custom.css"
         ],
         "markdown":{
