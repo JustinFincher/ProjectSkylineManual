@@ -1,0 +1,37 @@
+{
+  "toc": {
+    "sections": [
+      {
+        "title": "Skyline Manual",
+        "source": "README.md",
+        "url": "index.html",
+        "slug": "index"
+      },
+      {
+        "title": "Showcase",
+        "source": "docs/SHOWCASE.md",
+        "url": "SHOWCASE.html",
+        "slug": "showcase"
+      }
+    ]
+  },
+  "index": {
+    "index.html": {
+      "source": "README.md",
+      "title": "Skyline Manual",
+      "pageTitle": "Skyline Manual",
+      "slug": "index"
+    },
+    "SHOWCASE.html": {
+      "source": "docs/SHOWCASE.md",
+      "title": "Showcase - Skyline Manual",
+      "pageTitle": "Showcase",
+      "slug": "showcase"
+    }
+  },
+  "sources": {
+    "README.md": "index.html",
+    "docs/SHOWCASE.md": "SHOWCASE.html",
+    "docs/assets/custom.css": "assets/custom.css"
+  }
+}
