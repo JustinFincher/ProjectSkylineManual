@@ -32,6 +32,7 @@
   "sources": {
     "README.md": "index.html",
     "docs/showcase.md": "showcase.html",
-    "docs/assets/custom.css": "assets/custom.css"
+    "docs/assets/custom.css": "assets/custom.css",
+    "docs/assets/style.css": "assets/style.css"
   }
 }
