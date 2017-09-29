@@ -9,7 +9,8 @@ cache:
 
 # Build docs using latest docpress plugins
 script:
-- ./bin/docpress build
+- npm install docpress && ./node_modules/.bin/docpress build
+- npm install git-update-ghpages && ./node_modules/.bin/git-update-ghpages build
 
 # Deploy to gh-pages
 after_success:
