@@ -12,6 +12,58 @@
         "source": "docs/showcase.md",
         "url": "showcase.html",
         "slug": "showcase"
+      },
+      {
+        "title": "Getting started",
+        "sections": [
+          {
+            "title": "Quick-start guide"
+          }
+        ]
+      },
+      {
+        "title": "Customization",
+        "sections": [
+          {
+            "title": "Location"
+          },
+          {
+            "title": "Zoom"
+          },
+          {
+            "title": "Rotation"
+          },
+          {
+            "title": "LockScreen"
+          }
+        ]
+      },
+      {
+        "title": "Feedback",
+        "sections": [
+          {
+            "title": "Bugs"
+          },
+          {
+            "title": "Crashes"
+          },
+          {
+            "title": "Get Beta"
+          }
+        ]
+      },
+      {
+        "title": "Changelog",
+        "source": "docs/changelog.md",
+        "url": "changelog.html",
+        "slug": "changelog",
+        "headings": [
+          {
+            "title": "1.0.0.alpha.1",
+            "depth": 2,
+            "id": "1.0.0.alpha.1"
+          }
+        ]
       }
     ]
   },
@@ -27,11 +79,25 @@
       "title": "Showcase - Skyline Manual",
       "pageTitle": "Showcase",
       "slug": "showcase"
+    },
+    "changelog.html": {
+      "source": "docs/changelog.md",
+      "title": "Changelog - Skyline Manual",
+      "pageTitle": "Changelog",
+      "slug": "changelog",
+      "headings": [
+        {
+          "title": "1.0.0.alpha.1",
+          "depth": 2,
+          "id": "1.0.0.alpha.1"
+        }
+      ]
     }
   },
   "sources": {
     "README.md": "index.html",
     "docs/showcase.md": "showcase.html",
+    "docs/changelog.md": "changelog.html",
     "docs/assets/custom.css": "assets/custom.css",
     "docs/images/skyline_pixel_front.jpg": "images/skyline_pixel_front.jpg"
   }
