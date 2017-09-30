@@ -11,13 +11,20 @@
         "title": "Showcase",
         "source": "docs/showcase.md",
         "url": "showcase.html",
-        "slug": "showcase"
+        "slug": "showcase",
+        "headings": [
+          {
+            "title": "Malaysia {3.15384, 101.59186}",
+            "depth": 2,
+            "id": "malaysia-3.15384-101.59186"
+          }
+        ]
       },
       {
-        "title": "Getting started",
+        "title": "Getting Started",
         "sections": [
           {
-            "title": "Quick-start guide"
+            "title": "Quick-Start guide"
           }
         ]
       },
@@ -42,9 +49,6 @@
         "title": "Feedback",
         "sections": [
           {
-            "title": "Bugs"
-          },
-          {
             "title": "Crashes"
           },
           {
@@ -53,11 +57,19 @@
         ]
       },
       {
+        "title": "Road Map"
+      },
+      {
         "title": "Changelog",
         "source": "docs/changelog.md",
         "url": "changelog.html",
         "slug": "changelog",
         "headings": [
+          {
+            "title": "1.0.0.alpha.2",
+            "depth": 2,
+            "id": "1.0.0.alpha.2"
+          },
           {
             "title": "1.0.0.alpha.1",
             "depth": 2,
@@ -78,7 +90,14 @@
       "source": "docs/showcase.md",
       "title": "Showcase - Skyline Manual",
       "pageTitle": "Showcase",
-      "slug": "showcase"
+      "slug": "showcase",
+      "headings": [
+        {
+          "title": "Malaysia {3.15384, 101.59186}",
+          "depth": 2,
+          "id": "malaysia-3.15384-101.59186"
+        }
+      ]
     },
     "changelog.html": {
       "source": "docs/changelog.md",
@@ -86,6 +105,11 @@
       "pageTitle": "Changelog",
       "slug": "changelog",
       "headings": [
+        {
+          "title": "1.0.0.alpha.2",
+          "depth": 2,
+          "id": "1.0.0.alpha.2"
+        },
         {
           "title": "1.0.0.alpha.1",
           "depth": 2,
@@ -99,6 +123,7 @@
     "docs/showcase.md": "showcase.html",
     "docs/changelog.md": "changelog.html",
     "docs/assets/custom.css": "assets/custom.css",
-    "docs/images/skyline_pixel_front.jpg": "images/skyline_pixel_front.jpg"
+    "docs/images/skyline_pixel_front.jpg": "images/skyline_pixel_front.jpg",
+    "docs/images/screenshots/Malaysia_3_15384_101_59186.jpg": "images/screenshots/Malaysia_3_15384_101_59186.jpg"
   }
 }
