@@ -66,6 +66,21 @@
         "slug": "changelog",
         "headings": [
           {
+            "title": "1.0.0 (1090)",
+            "depth": 2,
+            "id": "1.0.0-(1090)"
+          },
+          {
+            "title": "1.0.0 (1074)",
+            "depth": 2,
+            "id": "1.0.0-(1074)"
+          },
+          {
+            "title": "1.0.0 (985)",
+            "depth": 2,
+            "id": "1.0.0-(985)"
+          },
+          {
             "title": "1.0.0.alpha.2",
             "depth": 2,
             "id": "1.0.0.alpha.2"
@@ -105,6 +120,21 @@
       "pageTitle": "Changelog",
       "slug": "changelog",
       "headings": [
+        {
+          "title": "1.0.0 (1090)",
+          "depth": 2,
+          "id": "1.0.0-(1090)"
+        },
+        {
+          "title": "1.0.0 (1074)",
+          "depth": 2,
+          "id": "1.0.0-(1074)"
+        },
+        {
+          "title": "1.0.0 (985)",
+          "depth": 2,
+          "id": "1.0.0-(985)"
+        },
         {
           "title": "1.0.0.alpha.2",
           "depth": 2,
