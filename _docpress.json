@@ -5,7 +5,19 @@
         "title": "Skyline Manual",
         "source": "README.md",
         "url": "index.html",
-        "slug": "index"
+        "slug": "index",
+        "headings": [
+          {
+            "title": "[Website](https://justinfincher.github.io/ProjectSkylineLandingWebGL/)",
+            "depth": 2,
+            "id": "website(https:justinfincher.github.ioprojectskylinelandingwebgl)"
+          },
+          {
+            "title": "[Download](https://play.google.com/store/apps/details?id=com.JustZht.Skyline)",
+            "depth": 2,
+            "id": "download(https:play.google.comstoreappsdetailsidcom.justzht.skyline)"
+          }
+        ]
       },
       {
         "title": "Showcase",
@@ -133,7 +145,19 @@
       "source": "README.md",
       "title": "Skyline Manual",
       "pageTitle": "Skyline Manual",
-      "slug": "index"
+      "slug": "index",
+      "headings": [
+        {
+          "title": "[Website](https://justinfincher.github.io/ProjectSkylineLandingWebGL/)",
+          "depth": 2,
+          "id": "website(https:justinfincher.github.ioprojectskylinelandingwebgl)"
+        },
+        {
+          "title": "[Download](https://play.google.com/store/apps/details?id=com.JustZht.Skyline)",
+          "depth": 2,
+          "id": "download(https:play.google.comstoreappsdetailsidcom.justzht.skyline)"
+        }
+      ]
     },
     "showcase.html": {
       "source": "docs/showcase.md",
