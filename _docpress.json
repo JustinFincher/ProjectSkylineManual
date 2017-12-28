@@ -82,6 +82,9 @@
       },
       {
         "title": "Road Map",
+        "source": "docs/roadmap.md",
+        "url": "roadmap.html",
+        "slug": "roadmap",
         "sections": [
           {
             "title": "Changelog",
@@ -192,6 +195,12 @@
         }
       ]
     },
+    "roadmap.html": {
+      "source": "docs/roadmap.md",
+      "title": "Road Map - Skyline Manual",
+      "pageTitle": "Road Map",
+      "slug": "roadmap"
+    },
     "changelog.html": {
       "source": "docs/changelog.md",
       "title": "Changelog - Skyline Manual",
@@ -232,6 +241,7 @@
     "docs/getstart.md": "getstart.html",
     "docs/customization.md": "customization.html",
     "docs/privacy.md": "privacy.html",
+    "docs/roadmap.md": "roadmap.html",
     "docs/changelog.md": "changelog.html",
     "docs/assets/custom.css": "assets/custom.css",
     "docs/images/skyline_pixel_front.jpg": "images/skyline_pixel_front.jpg",
