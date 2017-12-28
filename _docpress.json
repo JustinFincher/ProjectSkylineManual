@@ -75,6 +75,11 @@
                 "title": "Misc",
                 "depth": 2,
                 "id": "misc"
+              },
+              {
+                "title": "Last Modified",
+                "depth": 2,
+                "id": "last-modified"
               }
             ]
           }
@@ -192,6 +197,11 @@
           "title": "Misc",
           "depth": 2,
           "id": "misc"
+        },
+        {
+          "title": "Last Modified",
+          "depth": 2,
+          "id": "last-modified"
         }
       ]
     },
