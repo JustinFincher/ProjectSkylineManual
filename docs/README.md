@@ -1,16 +1,11 @@
 * [Skyline Manual](../README.md)
 * [Showcase](showcase.md)
 
-* Getting Started
-  * Quick-Start guide
-* Customization
-  * Location
-  * Zoom
-  * Rotation
-  * LockScreen
+* [Getting Started](getstart.md)
+* [Customization](customization.md)
 * Feedback
-  * Crashes
   * Get Beta
+  * [Policy](privacy.md)
 * Road Map
-* [Changelog](changelog.md)
+  * [Changelog](changelog.md)
 
