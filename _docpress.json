@@ -22,26 +22,35 @@
       },
       {
         "title": "Getting Started",
-        "sections": [
-          {
-            "title": "Quick-Start guide"
-          }
-        ]
+        "source": "docs/getstart.md",
+        "url": "getstart.html",
+        "slug": "getstart"
       },
       {
         "title": "Customization",
-        "sections": [
+        "source": "docs/customization.md",
+        "url": "customization.html",
+        "slug": "customization",
+        "headings": [
           {
-            "title": "Location"
+            "title": "Location",
+            "depth": 2,
+            "id": "location"
           },
           {
-            "title": "Zoom"
+            "title": "Zoom",
+            "depth": 2,
+            "id": "zoom"
           },
           {
-            "title": "Rotation"
+            "title": "Rotation",
+            "depth": 2,
+            "id": "rotation"
           },
           {
-            "title": "LockScreen"
+            "title": "LockScreen",
+            "depth": 2,
+            "id": "lockscreen"
           }
         ]
       },
@@ -49,46 +58,63 @@
         "title": "Feedback",
         "sections": [
           {
-            "title": "Crashes"
+            "title": "Get Beta"
           },
           {
-            "title": "Get Beta"
+            "title": "Policy",
+            "source": "docs/privacy.md",
+            "url": "privacy.html",
+            "slug": "privacy",
+            "headings": [
+              {
+                "title": "General",
+                "depth": 2,
+                "id": "general"
+              },
+              {
+                "title": "Misc",
+                "depth": 2,
+                "id": "misc"
+              }
+            ]
           }
         ]
       },
       {
-        "title": "Road Map"
-      },
-      {
-        "title": "Changelog",
-        "source": "docs/changelog.md",
-        "url": "changelog.html",
-        "slug": "changelog",
-        "headings": [
+        "title": "Road Map",
+        "sections": [
           {
-            "title": "1.0.0 (1090)",
-            "depth": 2,
-            "id": "1.0.0-(1090)"
-          },
-          {
-            "title": "1.0.0 (1074)",
-            "depth": 2,
-            "id": "1.0.0-(1074)"
-          },
-          {
-            "title": "1.0.0 (985)",
-            "depth": 2,
-            "id": "1.0.0-(985)"
-          },
-          {
-            "title": "1.0.0.alpha.2",
-            "depth": 2,
-            "id": "1.0.0.alpha.2"
-          },
-          {
-            "title": "1.0.0.alpha.1",
-            "depth": 2,
-            "id": "1.0.0.alpha.1"
+            "title": "Changelog",
+            "source": "docs/changelog.md",
+            "url": "changelog.html",
+            "slug": "changelog",
+            "headings": [
+              {
+                "title": "1.0.0 (1090)",
+                "depth": 2,
+                "id": "1.0.0-(1090)"
+              },
+              {
+                "title": "1.0.0 (1074)",
+                "depth": 2,
+                "id": "1.0.0-(1074)"
+              },
+              {
+                "title": "1.0.0 (985)",
+                "depth": 2,
+                "id": "1.0.0-(985)"
+              },
+              {
+                "title": "1.0.0.alpha.2",
+                "depth": 2,
+                "id": "1.0.0.alpha.2"
+              },
+              {
+                "title": "1.0.0.alpha.1",
+                "depth": 2,
+                "id": "1.0.0.alpha.1"
+              }
+            ]
           }
         ]
       }
@@ -111,6 +137,58 @@
           "title": "Malaysia {3.15384, 101.59186}",
           "depth": 2,
           "id": "malaysia-3.15384-101.59186"
+        }
+      ]
+    },
+    "getstart.html": {
+      "source": "docs/getstart.md",
+      "title": "Getting Started - Skyline Manual",
+      "pageTitle": "Getting Started",
+      "slug": "getstart"
+    },
+    "customization.html": {
+      "source": "docs/customization.md",
+      "title": "Customization - Skyline Manual",
+      "pageTitle": "Customization",
+      "slug": "customization",
+      "headings": [
+        {
+          "title": "Location",
+          "depth": 2,
+          "id": "location"
+        },
+        {
+          "title": "Zoom",
+          "depth": 2,
+          "id": "zoom"
+        },
+        {
+          "title": "Rotation",
+          "depth": 2,
+          "id": "rotation"
+        },
+        {
+          "title": "LockScreen",
+          "depth": 2,
+          "id": "lockscreen"
+        }
+      ]
+    },
+    "privacy.html": {
+      "source": "docs/privacy.md",
+      "title": "Policy - Skyline Manual",
+      "pageTitle": "Policy",
+      "slug": "privacy",
+      "headings": [
+        {
+          "title": "General",
+          "depth": 2,
+          "id": "general"
+        },
+        {
+          "title": "Misc",
+          "depth": 2,
+          "id": "misc"
         }
       ]
     },
@@ -151,6 +229,9 @@
   "sources": {
     "README.md": "index.html",
     "docs/showcase.md": "showcase.html",
+    "docs/getstart.md": "getstart.html",
+    "docs/customization.md": "customization.html",
+    "docs/privacy.md": "privacy.html",
     "docs/changelog.md": "changelog.html",
     "docs/assets/custom.css": "assets/custom.css",
     "docs/images/skyline_pixel_front.jpg": "images/skyline_pixel_front.jpg",
