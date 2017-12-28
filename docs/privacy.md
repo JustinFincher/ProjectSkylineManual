@@ -8,7 +8,7 @@ I wrote this app for my own use first, then publish it on the Google Play. I don
 
 ## Misc
 - This app is based on Unity Engine. Unity have some basic analytics reporting user's device name, OS, Unity Engine version in an anonymous manner.
-- This app uses [Unity Analytics](https://unity3d.com/unity/features/analytics). It only collects events when users set a location (only collects the action itself, does not collect the location). It will also collects the total user count.
+- This app uses [Unity Analytics](https://unity3d.com/unity/features/analytics). It only collects events when users set a location (only collects the action itself, does not collect the location). It will also collect the total user count.
 - The development version of this app uses `READ_EXTERNAL_STORAGE` permission because it is compiled with [leakcanary](https://github.com/square/leakcanary) to detect memory leak. The production version (a.k.a Google Play version) does not have this permission requirement.
 - The app uses `ACCESS_FINE_LOCATION` permission because the Mapbox demands it. The later version of Skyline may have a "locate me" feature and will use this permission.
 
