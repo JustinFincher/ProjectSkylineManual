@@ -1,10 +1,4 @@
 @media (min-width: 1280px) {
-/*  html .markdown-body .wide {
-    width: 1280px;
-    margin-left: -100px;
-    margin-top: 2.7em;
-    margin-bottom: 2.7em;
-  }*/
 
   html .markdown-body.markdown-body {
     table, tr, td, th, thead, tbody {
@@ -36,10 +30,42 @@
     }
   }
 }
-
+html .button
+{
+  white-space: nowrap;
+  padding: 0.5em;
+}
+html .button a{
+    font-size: 1.6em;
+    color: rgb(26, 188, 156);
+    text-decoration: none;
+    background: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(26, 188, 156);
+    border-image: initial;
+    border-radius: 0.2em;
+    padding: 5px 12px;
+}
+html .button.main a{
+    font-size: 1.6em;
+    color: white;
+    text-decoration: none;
+    background: rgb(26, 188, 156);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(26, 188, 156);
+    border-image: initial;
+    border-radius: 0.2em;
+    padding: 5px 12px;
+}
 html .markdown-body {
     margin-top: 2.7em;
     margin-bottom: 2.7em;
+    margin-right: 1em;
+    margin-left: 1em;
+    width: none;
+    max-width: none;;
 }
 
 img {
