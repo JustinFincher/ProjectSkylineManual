@@ -3,7 +3,16 @@
   "github": "JustinFincher/ProjectSkylineManual",
   "css": [
     "https://ricostacruz.com/docpress-rsc/style.css",
-    "docs/assets/custom.css"
+    "assets/custom.css",
+    "assets/zoom.css"
+  ],
+  "scripts": [
+    "scripts/main.js",
+    "scripts/jquery-3.2.1.min.js",
+    "scripts/masonry.pkgd.min.js",
+    "scripts/imagesloaded.pkgd.min.js",
+    "scripts/zoom.min.js",
+    "scripts/transition.js"
   ],
   "markdown": {
     "typographer": true,

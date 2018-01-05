@@ -14,4 +14,6 @@ I wrote this app for my own use first, then publish it on the Google Play. I don
 
 ## Last Modified
 2017.12.29  
-By [Justin Fincher (a.k.a Zheng Haotian)](https://fincher.im)
+By [Justin Fincher (a.k.a Zheng Haotian)](https://fincher.im)  
+
+

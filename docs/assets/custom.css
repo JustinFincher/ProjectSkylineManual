@@ -1,10 +1,10 @@
 @media (min-width: 1280px) {
-  html .markdown-body .wide {
-    width: 900px;
+/*  html .markdown-body .wide {
+    width: 1280px;
     margin-left: -100px;
     margin-top: 2.7em;
     margin-bottom: 2.7em;
-  }
+  }*/
 
   html .markdown-body.markdown-body {
     table, tr, td, th, thead, tbody {
@@ -35,4 +35,101 @@
       vertical-align: top;
     }
   }
+}
+
+html .markdown-body {
+    margin-top: 2.7em;
+    margin-bottom: 2.7em;
+}
+
+img {
+    border-radius: 4px;
+}
+.grid-sizer,
+.grid-item { 
+  width: 100%; 
+  padding: 0.5rem;
+}
+.grid-item-wide {
+  width: 100%; 
+  padding: 0.5rem;
+}
+
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .grid-sizer,
+    .grid-item { width: 33%; }
+    .grid-item-wide { width: 66%; }
+}
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  .grid-sizer,
+  .grid-item { width: 33%; }
+  .grid-item-wide { width: 66%; }
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  .grid-sizer,
+  .grid-item { width: 33%; }
+  .grid-item-wide { width: 66%; }
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  .grid-sizer,
+  .grid-item { width: 33%; }
+  .grid-item-wide { width: 66%; }
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  .grid-sizer,
+  .grid-item { width: 50%; }
+  .grid-item-wide { width: 100%; }
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  .grid-sizer,
+  .grid-item { width: 50%; }
+  .grid-item-wide { width: 100%; }
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  .grid-sizer,
+  .grid-item { width: 100%; }
+  .grid-item-wide { width: 100%; }
 }
