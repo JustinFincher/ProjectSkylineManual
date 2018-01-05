@@ -1,6 +1,19 @@
 # Changelog
 <!--{h1:.massive-header.-with-tagline}-->
 
+## 1.0.0 (1209)
+>2017-1-3
+
+**ADDED**
+- New gesture based UI
+
+## 1.0.0 (1094)
+> 2017-12-30
+
+**FIXED**
+- UI Improvement on location page.
+- Under-the-hood fix and enhancement for the next feature: "Skyline Presents"
+
 ## 1.0.0 (1090)
 > 2017-12-27
 
