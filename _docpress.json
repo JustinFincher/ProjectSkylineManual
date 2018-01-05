@@ -128,6 +128,23 @@
             ]
           }
         ]
+      },
+      {
+        "title": "Links",
+        "sections": [
+          {
+            "title": "Website",
+            "source": "docs/links/website.md",
+            "url": "links/website.html",
+            "slug": "linkswebsite"
+          },
+          {
+            "title": "Download",
+            "source": "docs/links/download.md",
+            "url": "links/download.html",
+            "slug": "linksdownload"
+          }
+        ]
       }
     ]
   },
@@ -249,6 +266,18 @@
           "id": "1.0.0.alpha.1"
         }
       ]
+    },
+    "links/website.html": {
+      "source": "docs/links/website.md",
+      "title": "Website - Skyline Manual",
+      "pageTitle": "Website",
+      "slug": "linkswebsite"
+    },
+    "links/download.html": {
+      "source": "docs/links/download.md",
+      "title": "Download - Skyline Manual",
+      "pageTitle": "Download",
+      "slug": "linksdownload"
     }
   },
   "sources": {
@@ -259,6 +288,8 @@
     "docs/privacy.md": "privacy.html",
     "docs/roadmap.md": "roadmap.html",
     "docs/changelog.md": "changelog.html",
+    "docs/links/website.md": "links/website.html",
+    "docs/links/download.md": "links/download.html",
     "docs/assets/custom.css": "assets/custom.css",
     "docs/assets/zoom.css": "assets/zoom.css",
     "docs/scripts/imagesloaded.pkgd.min.js": "scripts/imagesloaded.pkgd.min.js",
@@ -268,6 +299,7 @@
     "docs/scripts/transition.js": "scripts/transition.js",
     "docs/scripts/waterfall.min.js": "scripts/waterfall.min.js",
     "docs/scripts/zoom.min.js": "scripts/zoom.min.js",
+    "docs/images/banner.jpg": "images/banner.jpg",
     "docs/images/skyline_pixel_front.jpg": "images/skyline_pixel_front.jpg",
     "docs/images/screenshots/1.jpg": "images/screenshots/1.jpg",
     "docs/images/screenshots/2.jpg": "images/screenshots/2.jpg",
