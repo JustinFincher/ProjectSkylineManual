@@ -11,14 +11,7 @@
         "title": "Showcase",
         "source": "docs/showcase.md",
         "url": "showcase.html",
-        "slug": "showcase",
-        "headings": [
-          {
-            "title": "Malaysia {3.15384, 101.59186}",
-            "depth": 2,
-            "id": "malaysia-3.15384-101.59186"
-          }
-        ]
+        "slug": "showcase"
       },
       {
         "title": "Getting Started",
@@ -149,14 +142,7 @@
       "source": "docs/showcase.md",
       "title": "Showcase - Skyline Manual",
       "pageTitle": "Showcase",
-      "slug": "showcase",
-      "headings": [
-        {
-          "title": "Malaysia {3.15384, 101.59186}",
-          "depth": 2,
-          "id": "malaysia-3.15384-101.59186"
-        }
-      ]
+      "slug": "showcase"
     },
     "getstart.html": {
       "source": "docs/getstart.md",
@@ -274,7 +260,17 @@
     "docs/roadmap.md": "roadmap.html",
     "docs/changelog.md": "changelog.html",
     "docs/assets/custom.css": "assets/custom.css",
+    "docs/assets/zoom.css": "assets/zoom.css",
+    "docs/scripts/imagesloaded.pkgd.min.js": "scripts/imagesloaded.pkgd.min.js",
+    "docs/scripts/jquery-3.2.1.min.js": "scripts/jquery-3.2.1.min.js",
+    "docs/scripts/main.js": "scripts/main.js",
+    "docs/scripts/masonry.pkgd.min.js": "scripts/masonry.pkgd.min.js",
+    "docs/scripts/transition.js": "scripts/transition.js",
+    "docs/scripts/waterfall.min.js": "scripts/waterfall.min.js",
+    "docs/scripts/zoom.min.js": "scripts/zoom.min.js",
     "docs/images/skyline_pixel_front.jpg": "images/skyline_pixel_front.jpg",
-    "docs/images/screenshots/Malaysia_3_15384_101_59186.jpg": "images/screenshots/Malaysia_3_15384_101_59186.jpg"
+    "docs/images/screenshots/1.jpg": "images/screenshots/1.jpg",
+    "docs/images/screenshots/2.jpg": "images/screenshots/2.jpg",
+    "docs/images/screenshots/3.jpg": "images/screenshots/3.jpg"
   }
 }
