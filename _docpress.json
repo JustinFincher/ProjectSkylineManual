@@ -17,7 +17,29 @@
         "title": "Getting Started",
         "source": "docs/getstart.md",
         "url": "getstart.html",
-        "slug": "getstart"
+        "slug": "getstart",
+        "headings": [
+          {
+            "title": "Download Skyline App",
+            "depth": 2,
+            "id": "download-skyline-app"
+          },
+          {
+            "title": "Open the Skyline",
+            "depth": 2,
+            "id": "open-the-skyline"
+          },
+          {
+            "title": "Set up a location",
+            "depth": 2,
+            "id": "set-up-a-location"
+          },
+          {
+            "title": "Good to go",
+            "depth": 2,
+            "id": "good-to-go"
+          }
+        ]
       },
       {
         "title": "Customization",
@@ -41,40 +63,32 @@
             "id": "rotation"
           },
           {
-            "title": "LockScreen",
+            "title": "Color Filter",
             "depth": 2,
-            "id": "lockscreen"
+            "id": "color-filter"
           }
         ]
       },
       {
-        "title": "Feedback",
-        "sections": [
+        "title": "Policy",
+        "source": "docs/privacy.md",
+        "url": "privacy.html",
+        "slug": "privacy",
+        "headings": [
           {
-            "title": "Get Beta"
+            "title": "General",
+            "depth": 2,
+            "id": "general"
           },
           {
-            "title": "Policy",
-            "source": "docs/privacy.md",
-            "url": "privacy.html",
-            "slug": "privacy",
-            "headings": [
-              {
-                "title": "General",
-                "depth": 2,
-                "id": "general"
-              },
-              {
-                "title": "Misc",
-                "depth": 2,
-                "id": "misc"
-              },
-              {
-                "title": "Last Modified",
-                "depth": 2,
-                "id": "last-modified"
-              }
-            ]
+            "title": "Misc",
+            "depth": 2,
+            "id": "misc"
+          },
+          {
+            "title": "Last Modified",
+            "depth": 2,
+            "id": "last-modified"
           }
         ]
       },
@@ -82,50 +96,48 @@
         "title": "Road Map",
         "source": "docs/roadmap.md",
         "url": "roadmap.html",
-        "slug": "roadmap",
-        "sections": [
+        "slug": "roadmap"
+      },
+      {
+        "title": "Changelog",
+        "source": "docs/changelog.md",
+        "url": "changelog.html",
+        "slug": "changelog",
+        "headings": [
           {
-            "title": "Changelog",
-            "source": "docs/changelog.md",
-            "url": "changelog.html",
-            "slug": "changelog",
-            "headings": [
-              {
-                "title": "1.0.0 (1209)",
-                "depth": 2,
-                "id": "1.0.0-(1209)"
-              },
-              {
-                "title": "1.0.0 (1094)",
-                "depth": 2,
-                "id": "1.0.0-(1094)"
-              },
-              {
-                "title": "1.0.0 (1090)",
-                "depth": 2,
-                "id": "1.0.0-(1090)"
-              },
-              {
-                "title": "1.0.0 (1074)",
-                "depth": 2,
-                "id": "1.0.0-(1074)"
-              },
-              {
-                "title": "1.0.0 (985)",
-                "depth": 2,
-                "id": "1.0.0-(985)"
-              },
-              {
-                "title": "1.0.0.alpha.2",
-                "depth": 2,
-                "id": "1.0.0.alpha.2"
-              },
-              {
-                "title": "1.0.0.alpha.1",
-                "depth": 2,
-                "id": "1.0.0.alpha.1"
-              }
-            ]
+            "title": "1.0.0 (1209)",
+            "depth": 2,
+            "id": "1.0.0-(1209)"
+          },
+          {
+            "title": "1.0.0 (1094)",
+            "depth": 2,
+            "id": "1.0.0-(1094)"
+          },
+          {
+            "title": "1.0.0 (1090)",
+            "depth": 2,
+            "id": "1.0.0-(1090)"
+          },
+          {
+            "title": "1.0.0 (1074)",
+            "depth": 2,
+            "id": "1.0.0-(1074)"
+          },
+          {
+            "title": "1.0.0 (985)",
+            "depth": 2,
+            "id": "1.0.0-(985)"
+          },
+          {
+            "title": "1.0.0.alpha.2",
+            "depth": 2,
+            "id": "1.0.0.alpha.2"
+          },
+          {
+            "title": "1.0.0.alpha.1",
+            "depth": 2,
+            "id": "1.0.0.alpha.1"
           }
         ]
       },
@@ -165,7 +177,29 @@
       "source": "docs/getstart.md",
       "title": "Getting Started - Skyline Manual",
       "pageTitle": "Getting Started",
-      "slug": "getstart"
+      "slug": "getstart",
+      "headings": [
+        {
+          "title": "Download Skyline App",
+          "depth": 2,
+          "id": "download-skyline-app"
+        },
+        {
+          "title": "Open the Skyline",
+          "depth": 2,
+          "id": "open-the-skyline"
+        },
+        {
+          "title": "Set up a location",
+          "depth": 2,
+          "id": "set-up-a-location"
+        },
+        {
+          "title": "Good to go",
+          "depth": 2,
+          "id": "good-to-go"
+        }
+      ]
     },
     "customization.html": {
       "source": "docs/customization.md",
@@ -189,9 +223,9 @@
           "id": "rotation"
         },
         {
-          "title": "LockScreen",
+          "title": "Color Filter",
           "depth": 2,
-          "id": "lockscreen"
+          "id": "color-filter"
         }
       ]
     },
