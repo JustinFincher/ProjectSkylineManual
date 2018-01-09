@@ -93,6 +93,12 @@
         ]
       },
       {
+        "title": "Known Issues",
+        "source": "docs/issues.md",
+        "url": "issues.html",
+        "slug": "issues"
+      },
+      {
         "title": "Road Map",
         "source": "docs/roadmap.md",
         "url": "roadmap.html",
@@ -104,6 +110,11 @@
         "url": "changelog.html",
         "slug": "changelog",
         "headings": [
+          {
+            "title": "1.0.0 (1216)",
+            "depth": 2,
+            "id": "1.0.0-(1216)"
+          },
           {
             "title": "1.0.0 (1209)",
             "depth": 2,
@@ -252,6 +263,12 @@
         }
       ]
     },
+    "issues.html": {
+      "source": "docs/issues.md",
+      "title": "Known Issues - Skyline Manual",
+      "pageTitle": "Known Issues",
+      "slug": "issues"
+    },
     "roadmap.html": {
       "source": "docs/roadmap.md",
       "title": "Road Map - Skyline Manual",
@@ -264,6 +281,11 @@
       "pageTitle": "Changelog",
       "slug": "changelog",
       "headings": [
+        {
+          "title": "1.0.0 (1216)",
+          "depth": 2,
+          "id": "1.0.0-(1216)"
+        },
         {
           "title": "1.0.0 (1209)",
           "depth": 2,
@@ -320,6 +342,7 @@
     "docs/getstart.md": "getstart.html",
     "docs/customization.md": "customization.html",
     "docs/privacy.md": "privacy.html",
+    "docs/issues.md": "issues.html",
     "docs/roadmap.md": "roadmap.html",
     "docs/changelog.md": "changelog.html",
     "docs/links/website.md": "links/website.html",
@@ -329,8 +352,8 @@
     "docs/scripts/imagesloaded.pkgd.min.js": "scripts/imagesloaded.pkgd.min.js",
     "docs/scripts/jquery-3.2.1.min.js": "scripts/jquery-3.2.1.min.js",
     "docs/scripts/main.js": "scripts/main.js",
-    "docs/scripts/masonry.pkgd.min.js": "scripts/masonry.pkgd.min.js",
     "docs/scripts/transition.js": "scripts/transition.js",
+    "docs/scripts/masonry.pkgd.min.js": "scripts/masonry.pkgd.min.js",
     "docs/scripts/waterfall.min.js": "scripts/waterfall.min.js",
     "docs/scripts/zoom.min.js": "scripts/zoom.min.js",
     "docs/images/banner.jpg": "images/banner.jpg",
