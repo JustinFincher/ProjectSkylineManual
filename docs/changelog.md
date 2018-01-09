@@ -1,6 +1,12 @@
 # Changelog
 <!--{h1:.massive-header.-with-tagline}-->
 
+## 1.0.0 (1216)
+>2017-1-8
+
+**FIXED**
+- Hot fix for tablet UI
+
 ## 1.0.0 (1209)
 >2017-1-3
 

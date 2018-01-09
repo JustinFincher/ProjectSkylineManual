@@ -6,3 +6,4 @@
 - Skyline Presents
 - Auto Change Location From Presents
 - Skyline Curator
+- Locationization

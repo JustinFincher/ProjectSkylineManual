@@ -4,6 +4,7 @@
 * [Getting Started](getstart.md)
 * [Customization](customization.md)
 * [Policy](privacy.md)
+* [Known Issues](issues.md)
 * [Road Map](roadmap.md)
 * [Changelog](changelog.md)
 * Links
