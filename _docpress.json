@@ -352,14 +352,20 @@
     "docs/scripts/imagesloaded.pkgd.min.js": "scripts/imagesloaded.pkgd.min.js",
     "docs/scripts/jquery-3.2.1.min.js": "scripts/jquery-3.2.1.min.js",
     "docs/scripts/main.js": "scripts/main.js",
-    "docs/scripts/transition.js": "scripts/transition.js",
     "docs/scripts/masonry.pkgd.min.js": "scripts/masonry.pkgd.min.js",
+    "docs/scripts/transition.js": "scripts/transition.js",
     "docs/scripts/waterfall.min.js": "scripts/waterfall.min.js",
     "docs/scripts/zoom.min.js": "scripts/zoom.min.js",
     "docs/images/banner.jpg": "images/banner.jpg",
     "docs/images/skyline_pixel_front.jpg": "images/skyline_pixel_front.jpg",
     "docs/images/screenshots/1.jpg": "images/screenshots/1.jpg",
     "docs/images/screenshots/2.jpg": "images/screenshots/2.jpg",
-    "docs/images/screenshots/3.jpg": "images/screenshots/3.jpg"
+    "docs/images/screenshots/3.jpg": "images/screenshots/3.jpg",
+    "docs/images/screenshots/4.jpg": "images/screenshots/4.jpg",
+    "docs/images/screenshots/5.jpg": "images/screenshots/5.jpg",
+    "docs/images/screenshots/6.jpg": "images/screenshots/6.jpg",
+    "docs/images/screenshots/7.jpg": "images/screenshots/7.jpg",
+    "docs/images/screenshots/8.jpg": "images/screenshots/8.jpg",
+    "docs/images/screenshots/9.jpg": "images/screenshots/9.jpg"
   }
 }
