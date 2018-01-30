@@ -14,146 +14,162 @@
         "slug": "showcase"
       },
       {
-        "title": "Getting Started",
-        "source": "docs/getstart.md",
-        "url": "getstart.html",
-        "slug": "getstart",
-        "headings": [
+        "title": "Manual",
+        "sections": [
           {
-            "title": "Download Skyline App",
-            "depth": 2,
-            "id": "download-skyline-app"
+            "title": "Getting Started",
+            "source": "docs/getstart.md",
+            "url": "getstart.html",
+            "slug": "getstart",
+            "headings": [
+              {
+                "title": "Download Skyline App",
+                "depth": 2,
+                "id": "download-skyline-app"
+              },
+              {
+                "title": "Open the Skyline",
+                "depth": 2,
+                "id": "open-the-skyline"
+              },
+              {
+                "title": "Set up a location",
+                "depth": 2,
+                "id": "set-up-a-location"
+              },
+              {
+                "title": "Good to go",
+                "depth": 2,
+                "id": "good-to-go"
+              }
+            ]
           },
           {
-            "title": "Open the Skyline",
-            "depth": 2,
-            "id": "open-the-skyline"
-          },
-          {
-            "title": "Set up a location",
-            "depth": 2,
-            "id": "set-up-a-location"
-          },
-          {
-            "title": "Good to go",
-            "depth": 2,
-            "id": "good-to-go"
+            "title": "Customization",
+            "source": "docs/customization.md",
+            "url": "customization.html",
+            "slug": "customization",
+            "headings": [
+              {
+                "title": "Location",
+                "depth": 2,
+                "id": "location"
+              },
+              {
+                "title": "Zoom",
+                "depth": 2,
+                "id": "zoom"
+              },
+              {
+                "title": "Rotation",
+                "depth": 2,
+                "id": "rotation"
+              },
+              {
+                "title": "Color Filter",
+                "depth": 2,
+                "id": "color-filter"
+              }
+            ]
           }
         ]
       },
       {
-        "title": "Customization",
-        "source": "docs/customization.md",
-        "url": "customization.html",
-        "slug": "customization",
-        "headings": [
+        "title": "Misc",
+        "sections": [
           {
-            "title": "Location",
-            "depth": 2,
-            "id": "location"
+            "title": "Privacy Policy",
+            "source": "docs/privacy.md",
+            "url": "privacy.html",
+            "slug": "privacy",
+            "headings": [
+              {
+                "title": "General",
+                "depth": 2,
+                "id": "general"
+              },
+              {
+                "title": "Misc",
+                "depth": 2,
+                "id": "misc"
+              },
+              {
+                "title": "Last Modified",
+                "depth": 2,
+                "id": "last-modified"
+              }
+            ]
           },
           {
-            "title": "Zoom",
-            "depth": 2,
-            "id": "zoom"
+            "title": "Known Issues",
+            "source": "docs/issues.md",
+            "url": "issues.html",
+            "slug": "issues"
           },
           {
-            "title": "Rotation",
-            "depth": 2,
-            "id": "rotation"
+            "title": "Road Map",
+            "source": "docs/roadmap.md",
+            "url": "roadmap.html",
+            "slug": "roadmap"
           },
           {
-            "title": "Color Filter",
-            "depth": 2,
-            "id": "color-filter"
+            "title": "Changelog",
+            "source": "docs/changelog.md",
+            "url": "changelog.html",
+            "slug": "changelog",
+            "headings": [
+              {
+                "title": "1.0.0 (1216)",
+                "depth": 2,
+                "id": "1.0.0-(1216)"
+              },
+              {
+                "title": "1.0.0 (1209)",
+                "depth": 2,
+                "id": "1.0.0-(1209)"
+              },
+              {
+                "title": "1.0.0 (1094)",
+                "depth": 2,
+                "id": "1.0.0-(1094)"
+              },
+              {
+                "title": "1.0.0 (1090)",
+                "depth": 2,
+                "id": "1.0.0-(1090)"
+              },
+              {
+                "title": "1.0.0 (1074)",
+                "depth": 2,
+                "id": "1.0.0-(1074)"
+              },
+              {
+                "title": "1.0.0 (985)",
+                "depth": 2,
+                "id": "1.0.0-(985)"
+              },
+              {
+                "title": "1.0.0.alpha.2",
+                "depth": 2,
+                "id": "1.0.0.alpha.2"
+              },
+              {
+                "title": "1.0.0.alpha.1",
+                "depth": 2,
+                "id": "1.0.0.alpha.1"
+              }
+            ]
+          },
+          {
+            "title": "Lib Notice",
+            "source": "docs/opensourcelibraries.md",
+            "url": "opensourcelibraries.html",
+            "slug": "opensourcelibraries"
           }
         ]
       },
       {
-        "title": "Policy",
-        "source": "docs/privacy.md",
-        "url": "privacy.html",
-        "slug": "privacy",
-        "headings": [
-          {
-            "title": "General",
-            "depth": 2,
-            "id": "general"
-          },
-          {
-            "title": "Misc",
-            "depth": 2,
-            "id": "misc"
-          },
-          {
-            "title": "Last Modified",
-            "depth": 2,
-            "id": "last-modified"
-          }
-        ]
-      },
-      {
-        "title": "Known Issues",
-        "source": "docs/issues.md",
-        "url": "issues.html",
-        "slug": "issues"
-      },
-      {
-        "title": "Road Map",
-        "source": "docs/roadmap.md",
-        "url": "roadmap.html",
-        "slug": "roadmap"
-      },
-      {
-        "title": "Changelog",
-        "source": "docs/changelog.md",
-        "url": "changelog.html",
-        "slug": "changelog",
-        "headings": [
-          {
-            "title": "1.0.0 (1216)",
-            "depth": 2,
-            "id": "1.0.0-(1216)"
-          },
-          {
-            "title": "1.0.0 (1209)",
-            "depth": 2,
-            "id": "1.0.0-(1209)"
-          },
-          {
-            "title": "1.0.0 (1094)",
-            "depth": 2,
-            "id": "1.0.0-(1094)"
-          },
-          {
-            "title": "1.0.0 (1090)",
-            "depth": 2,
-            "id": "1.0.0-(1090)"
-          },
-          {
-            "title": "1.0.0 (1074)",
-            "depth": 2,
-            "id": "1.0.0-(1074)"
-          },
-          {
-            "title": "1.0.0 (985)",
-            "depth": 2,
-            "id": "1.0.0-(985)"
-          },
-          {
-            "title": "1.0.0.alpha.2",
-            "depth": 2,
-            "id": "1.0.0.alpha.2"
-          },
-          {
-            "title": "1.0.0.alpha.1",
-            "depth": 2,
-            "id": "1.0.0.alpha.1"
-          }
-        ]
-      },
-      {
-        "title": "Links",
+        "title": "External Links",
         "sections": [
           {
             "title": "Website",
@@ -242,8 +258,8 @@
     },
     "privacy.html": {
       "source": "docs/privacy.md",
-      "title": "Policy - Skyline Manual",
-      "pageTitle": "Policy",
+      "title": "Privacy Policy - Skyline Manual",
+      "pageTitle": "Privacy Policy",
       "slug": "privacy",
       "headings": [
         {
@@ -323,6 +339,12 @@
         }
       ]
     },
+    "opensourcelibraries.html": {
+      "source": "docs/opensourcelibraries.md",
+      "title": "Lib Notice - Skyline Manual",
+      "pageTitle": "Lib Notice",
+      "slug": "opensourcelibraries"
+    },
     "links/website.html": {
       "source": "docs/links/website.md",
       "title": "Website - Skyline Manual",
@@ -345,6 +367,7 @@
     "docs/issues.md": "issues.html",
     "docs/roadmap.md": "roadmap.html",
     "docs/changelog.md": "changelog.html",
+    "docs/opensourcelibraries.md": "opensourcelibraries.html",
     "docs/links/website.md": "links/website.html",
     "docs/links/download.md": "links/download.html",
     "docs/assets/custom.css": "assets/custom.css",
