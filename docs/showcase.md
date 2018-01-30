@@ -34,6 +34,12 @@
     	<img data-action="zoom" src="images/screenshots/9.jpg">
     </div>
     <div class="grid-item">
+        <img data-action="zoom" src="images/screenshots/10.jpg">
+    </div>
+    <div class="grid-item">
+        <img data-action="zoom" src="images/screenshots/11.jpg">
+    </div>
+    <div class="grid-item">
     </div>
 </div>
 
