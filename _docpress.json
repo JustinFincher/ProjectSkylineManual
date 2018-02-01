@@ -84,9 +84,9 @@
             "slug": "privacy",
             "headings": [
               {
-                "title": "General",
+                "title": "TL,DR",
                 "depth": 2,
-                "id": "general"
+                "id": "tldr"
               },
               {
                 "title": "Misc",
@@ -263,9 +263,9 @@
       "slug": "privacy",
       "headings": [
         {
-          "title": "General",
+          "title": "TL,DR",
           "depth": 2,
-          "id": "general"
+          "id": "tldr"
         },
         {
           "title": "Misc",
