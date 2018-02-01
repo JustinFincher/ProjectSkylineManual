@@ -1,6 +1,39 @@
 # Changelog
 <!--{h1:.massive-header.-with-tagline}-->
 
+## 1.0.2 (2406)
+>2018-1-31
+
+**ADDED**
+- App Shortcuts Android N+
+- Location tracking with Google Play Location Service and GPS Fallback.
+- New application intro page
+- Random location
+- QR Code share / import
+
+**FIXED**
+- Various bug fixes
+
+**KNOWN ISSUE**:  
+- Location tracking is still in testing and may not work, you are welcome to send me feedback.
+
+## 1.0.1 (1873) 
+>2018-1-24
+
+**ADDED**
+- Simple shader for better performance
+- Better runtime permission handling
+- Added a "Locate Me" button.
+
+**FIXED**
+- Fix tablet UI bug
+- Fix dialog dimiss bug
+- Various bug fixes
+- UI fixes
+
+**REMOVED**
+- Remove WRITE_EXTERNAL_STORAGE Permission
+
 ## 1.0.0 (1216)
 >2017-1-8
 
