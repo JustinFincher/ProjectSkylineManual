@@ -81,13 +81,13 @@ I wrote this app for my own use first, then publish it on the Google Play. I don
 <h2 id="misc">Misc</h2>
 <ul>
 <li>This app is based on Unity Engine. Unity have some basic analytics reporting user&#x2019;s device name, OS, Unity Engine version in an anonymous manner.</li>
-<li>This app uses <a href="https://unity3d.com/unity/features/analytics">Unity Analytics</a>. It only collects events when users set a location (only collects the &#x201C;set&#x201D; action itself, does not collect the location). It will also collect the total user count.</li>
 <li>This app uses <a href="https://www.hockeyapp.net/">HockeyApp</a> &amp; <a href="https://github.com/ACRA/acra">ACRA</a> to collect crash infos. ACRA crash reports are manually sent by pressing the crash notification and send mail, while HockeyApp crash reports are sent automatically. In the next few release cycles the HockeyApp reporter can be disabled by a opt out button, but currently it is always on.</li>
-<li>The app uses <code>ACCESS_FINE_LOCATION</code> permission because the Mapbox SDK demands it, and Skyline need this to locate you if you enable the location tracking feature.</li>
-<li>The app uses <code>CAMERA</code> permission to scan the shared location QR code, you can disable it if you are running on Android 6.0 and later.</li>
+<li>From version 1.0.3 this app uses <a href="https://firebase.google.com/">Firebase Analytics</a> to collect pirated copy infos. Normally users with a valid copy license won&#x2019;t get collected. The info, if collected, includes device name, app version, os version.</li>
+<li>The app uses <code>ACCESS_FINE_LOCATION</code> permission because the Mapbox SDK demands it, and Skyline need this to locate you if you enable the location tracking feature. You can disable it if you are running on Android 6.0 and later.</li>
+<li>The app uses <code>CAMERA</code> permission to scan the shared location QR code, you can disable it too if you are running on Android 6.0 and later.</li>
 </ul>
 <h2 id="last-modified">Last Modified</h2>
-<p>2018.2.1
+<p>2018.2.5
 By <a href="https://fincher.im">Justin Fincher (a.k.a Zheng Haotian)</a></p>
 
         </div>
